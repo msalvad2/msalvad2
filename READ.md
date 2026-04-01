@@ -1,97 +1,104 @@
 # Miguel Salvador
 
-**Computer Science Student | Portland State University**  
+**Computer Science @ Portland State University**  
+**Systems Programming | Software Engineering | Test & Reliability**  
 **U.S. Army National Guard | Tanker**
 
-Software developer with expertise in C++ and data structures, pursuing a Bachelor of Science in Computer Science (GPA: 3.84, Dean's List). Combining technical proficiency with leadership experience to deliver efficient, well-architected software solutions.
+I build low-level and systems-oriented software with a focus on performance, correctness, and reliability. My work spans C/C++ systems programming, backend development, and automated testing frameworks—often centered around debugging, memory safety, and real-world system behavior.
 
 ---
 
-## Professional Summary
+## 🚀 About Me
 
-Dean's List computer science student at Portland State University with a strong foundation in object-oriented programming, data structures, and algorithms. Currently serving as an Active Duty Tanker in the U.S. Army National Guard since 2020. Demonstrated expertise in C++ development with emphasis on memory management, RAII principles, and algorithmic efficiency. First-generation college student committed to mentorship and community engagement.
-
-**Expected Graduation:** June 2027
-
----
-
-## Technical Proficiencies
-
-**Programming Languages**  
-C++ • C • Python
-
-**Development Tools & Systems**  
-Linux • Git/GitHub • VS Code • Make • GCC/G++
-
-**Core Competencies**  
-Object-Oriented Programming • Data Structures & Algorithms • Memory Management & RAII • Recursion & Dynamic Programming • Version Control • Software Debugging
+- 🎓 B.S. Computer Science, Portland State University (GPA: 3.86, Dean’s List)  
+- 🧠 Focus: Systems Programming, Operating Systems, and Software Reliability  
+- 🪖 6+ years in U.S. Army National Guard working with complex, safety-critical systems  
+- 🛠 Interested in low-level software, debugging, and hardware-adjacent systems  
 
 ---
 
-## Selected Projects
+## 🧰 Technical Skills
 
-### Red-Black Tree Racing Simulator
-**Technologies:** C++, Data Structures, Object-Oriented Design  
-**Repository:** [github.com/msalvad2/red-black-tree-racing-simulator](https://github.com/msalvad2/red-black-tree-racing-simulator)
+**Languages**  
+C • C++ • Python • JavaScript • SQL  
 
-- Implemented self-balancing red-black tree with complete insertion and deletion operations achieving O(log n) time complexity
-- Architected polymorphic class hierarchy utilizing dynamic binding, RTTI, and virtual functions for type-specific behaviors
-- Ensured memory safety through implementation of RAII principles, copy constructors, and assignment operators
+**Systems & Tools**  
+Linux • Git/GitHub • Docker • GDB • Valgrind • Make • VS Code  
 
-### Haunted Maze Adventure
-**Technologies:** C++, Recursive Data Structures, Polymorphism  
-**Repository:** [github.com/msalvad2/HauntedMazeAdventure](https://github.com/msalvad2/HauntedMazeAdventure)
+**Backend & Databases**  
+Node.js • Express • REST APIs • MySQL • PostgreSQL  
 
-- Developed interactive application using recursive doubly linked list for dynamic object management
-- Implemented polymorphic class design across base and derived classes with distinct behavioral patterns
-- Integrated operator overloading, STL containers, and exception-safe memory handling techniques
-
-### Festival Vendor Management System
-**Technologies:** C++, Inheritance, STL, Recursive Structures  
-**Repository:** [github.com/msalvad2/Festival_Vendor_Management](https://github.com/msalvad2/Festival_Vendor_Management)
-
-- Engineered modular vendor management system utilizing recursive data structures and STL containers
-- Demonstrated scalable object-oriented architecture with inheritance and polymorphism
-- Implemented efficient dynamic memory management for multiple vendor categories
+**Core Strengths**  
+- Systems Programming & OS Concepts  
+- Memory Management & Debugging  
+- Data Structures & Algorithmic Efficiency  
+- Performance Optimization  
+- Software Testing & Validation  
 
 ---
 
-## Academic Background
+## 🧪 Selected Projects
 
-**Portland State University** | Bachelor of Science in Computer Science | September 2023 – June 2027  
-GPA: 3.84/4.0 | Dean's List (Multiple Terms)
-
-**Relevant Coursework:** Data Structures, Discrete Structures I & II, Linear Algebra, Programming Methods, Algorithms & Complexity
-
----
-
-## Professional Experience
-
-**U.S. Army National Guard** | Tanker | June 2020 – Present  
-*Hermiston, Oregon*
-
-- Operate and maintain M1 Abrams tanks during training exercises and overseas deployment operations
-- Execute safety-critical technical procedures in high-pressure team environments with 4-6 personnel
-- Demonstrate discipline, accountability, and systematic problem-solving applicable to software development
+### 🐚 Unix Shell (C)
+- Built a POSIX-compliant shell from scratch using `fork`, `exec`, and `waitpid`
+- Implemented pipelines, I/O redirection, background job control, and signal handling
+- Verified **zero memory leaks** using Valgrind
+- Focused on process control, correctness, and low-level system interaction
 
 ---
 
-## Leadership & Community Engagement
-
-**Mentor** | We in Computer Science Club  
-Guide peers in data structure fundamentals, algorithm design, and debugging methodologies
-
-**Peer Mentor** | First-Generation Student Advocate  
-Support younger siblings and peers navigating college pathways and academic planning
-
-**Student Assistant** | Dreamer Resource Center  
-Promote campus inclusion and student engagement through community support initiatives
+### 🧪 Seat-End Device Automation Framework (Python)
+- Developed a pytest-based automation framework simulating embedded device behavior
+- Applied **boundary value analysis** and defensive programming for robust test coverage
+- Integrated with GitHub Actions for **CI/CD-based automated regression testing**
+- Designed to detect failures early and improve system reliability
 
 ---
 
-## Contact Information
+### 🌐 Property Search REST API (Node.js / MySQL)
+- Built scalable REST API with dynamic filtering (price, location, etc.)
+- Implemented database indexing and parameterized queries for performance
+- Designed modular routing, structured error handling, and request logging
+- Focused on backend scalability and clean API design
 
-**Email:** miguelcarrera620@gmail.com  
-**LinkedIn:** [linkedin.com/in/miguel-salvador-4049a528b](https://linkedin.com/in/miguel-salvador-4049a528b)  
-**GitHub:** [github.com/msalvad2](https://github.com/msalvad2)  
-**Location:** Portland, Oregon
+---
+
+### 🌳 Red-Black Tree Racing Simulator (C++)
+- Implemented self-balancing red-black tree with guaranteed **O(log n)** operations
+- Designed using RAII principles for exception-safe memory management
+- Verified correctness and memory safety with Valgrind
+
+---
+
+## 🧠 What I Care About
+
+I’m particularly interested in software that operates close to the system:
+- Process control and operating systems  
+- Debugging complex, real-world failures  
+- Performance-critical and memory-safe code  
+- Test systems, validation, and reliability engineering  
+
+---
+
+## 🤝 Leadership & Experience
+
+**Software Engineering Intern — IDX Exchange**  
+- Building Node.js/Express APIs with MySQL  
+- Focused on performance, scalability, and clean system design  
+
+**U.S. Army National Guard — Tanker (2020–Present)**  
+- Maintain and diagnose integrated mechanical/electronic systems  
+- Execute safety-critical operations in team environments  
+- Strong discipline, troubleshooting, and systems thinking  
+
+**Mentor — We in Computer Science Club**  
+- Lead sessions on data structures, debugging, and problem solving  
+
+---
+
+## 📫 Contact
+
+- Email: miguelcarrera620@gmail.com  
+- GitHub: https://github.com/msalvad2  
+- LinkedIn: https://linkedin.com/in/miguel-salvador-cs  
+- Location: Portland, Oregon
